@@ -5,17 +5,17 @@ The purpose of this project is help build an app called PlanMyTrip. The owners o
 
 ## Deliberables:
 
-Deliverable 1: Retrieve Weather Data
+### Deliverable 1: Retrieve Weather Data
 - The Weather_Database.ipynb file
 - The WeatherPy_Database.csv file
 
-Deliverable 2: Create a Customer Travel Destinations Map
+### Deliverable 2: Create a Customer Travel Destinations Map
 - The Vacation_Search.ipynb file
 - The WeatherPy_vacation.csv file
 - The WeatherPy_vacation_map.png image
 ![WeatherPy_vacation_map.png](https://github.com/andreabassetti/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png)
 
-Deliverable 3: Create a Travel Itinerary Map
+### Deliverable 3: Create a Travel Itinerary Map
 - The Vacation_Itinerary.ipynb file
 - The WeatherPy_travel_map.png image
 ![WeatherPy_travel_map.png](https://github.com/andreabassetti/World_Weather_Analysis/blob/main/Vacation%20Itinerary/WeatherPy_travel_map.png)
